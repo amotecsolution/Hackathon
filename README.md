@@ -1,2 +1,0 @@
-# Hackathon
-Live better
